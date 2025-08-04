@@ -23,7 +23,9 @@ Generated predictions based on similarity scores.
 Finally, we created a recommend() function that takes a book name as input and returns 4 similar books with authors.
 
 ## Reference Images
-<img width="1855" height="880" alt="Screenshot 2025-08-04 154756" src="https://github.com/user-attachments/assets/d73a16bb-654a-4a63-9fc1-5d8d9d686518" />
+
+<img width="1852" height="883" alt="Screenshot 2025-08-04 154734" src="https://github.com/user-attachments/assets/76a79101-665f-4009-b865-879f75037b0b" />
+
 
 
 
